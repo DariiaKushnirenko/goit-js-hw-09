@@ -18,6 +18,7 @@
 }
 .nav-link {
   position: relative;
+  margin-bottom: 8px;
   display: block;
   font-weight: 500;
   font-size: 20px;
